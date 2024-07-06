@@ -6,7 +6,8 @@ The holydays are fetched from [https://nolaborables.com.ar](https://nolaborables
 
 ## Installation
 
-1. Download as zip and extract it in `~/.local/share/gnome-shell/extensions/feriados@fgasquez.ar`
+1. Download as zip 
+2. Extract it in `~/.local/share/gnome-shell/extensions/feriados@fgasquez.ar`
 
 ## TODO
 - [ ] Add to [gnome extensions](https://extensions.gnome.org/) site
