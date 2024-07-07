@@ -5,8 +5,6 @@
   "settings-schema": "org.gnome.shell.extensions.feriados-ar",
   "gettext-domain": "feriados@fgasquez.ar",
   "shell-version": [
-    "40",
-    "41",
     "42",
     "43",
     "44"
