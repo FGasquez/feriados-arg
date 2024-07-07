@@ -11,6 +11,7 @@ The holydays are fetched from [https://nolaborables.com.ar](https://nolaborables
 
 ## TODO
 - [ ] Add to [gnome extensions](https://extensions.gnome.org/) site
+- [ ] Fix preferences on gnome 45 and older versions
 - [ ] Replace curl with Soup
 - [ ] Add translations
 - [ ] Support for other countries and APIs
